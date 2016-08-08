@@ -1,6 +1,6 @@
 {
   "name": "your-first-node-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "following tutorial at https://nodesource.com/blog/your-first-nodejs-package/",
   "main": "index.js",
   "scripts": {
