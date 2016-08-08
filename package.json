@@ -1,0 +1,19 @@
+{
+  "name": "your-first-node-package",
+  "version": "1.0.0",
+  "description": "following tutorial at https://nodesource.com/blog/your-first-nodejs-package/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jess-alexander/your-first-node-package.git"
+  },
+  "author": "Jess Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jess-alexander/your-first-node-package/issues"
+  },
+  "homepage": "https://github.com/jess-alexander/your-first-node-package"
+}
